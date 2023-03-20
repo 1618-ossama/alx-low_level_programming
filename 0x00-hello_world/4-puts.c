@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 /**
- * this a c code for printing text
+ * main - Entry point for the program
+ *
+ * Description: This function here is used to print text.
+ *
+ * Return: 0 is success of the program after exit .
  */
 
 int main(void)
