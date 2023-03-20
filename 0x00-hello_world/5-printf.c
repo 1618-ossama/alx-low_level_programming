@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main : entry point.
+ * main - EEntry point for the program
  *
- * Description : a program to print text.
+ * Description: a program to print text
  *
- * return : 0 means success .
+ * Return: 0 means success
  */
 
 int main(void)
