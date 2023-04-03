@@ -7,12 +7,9 @@
 
 int main(void)
 {
-	char letter;
-
-	for (letter = 'z' ; letter >= 'a' ; letter--)
-		{
-		putchar(letter);
-		}
-	putchar('\n');
+	for (int a = 48 ; a <= 57 ; a++)
+	{
+	putchar(a);
+	}
 	return (0);
 }
